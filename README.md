@@ -4,7 +4,7 @@
 ![miniRT](./_pics/jpg/screenshort03.jpg)
 
 ## Description
-The goal of your program is to generate images
+The goal of this project is to generate images
 using the _Raytracing protocol_. Those computer
 generated images will each represent a scene, as
 seen from a specific angle and position, defined
