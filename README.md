@@ -64,7 +64,6 @@ This project requires Minilibx library to work.
 * box
 * pyramid
 * aabb (axis-aligned bounding box)
-* rectangle
 
 ## Features Implemented
 * Normal disruption e.g. using sine which gives a wave effect.
